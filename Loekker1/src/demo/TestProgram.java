@@ -7,7 +7,7 @@ public class TestProgram {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter the numbers of pizza's u would like:");
+        System.out.println("Enter the numbers of rows u would like:");
         int rows = scanner.nextInt();
         System.out.println("Enter how many (+) per line u would like:");
         int chars = scanner.nextInt();
